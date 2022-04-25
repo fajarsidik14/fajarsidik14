@@ -11,7 +11,10 @@ I've been learning to code for 5 years,after switching carrers. I started with J
 *   ✉️  You can contact me at [fajar141196@gmail.com](mailto:fajar141196@gmail.com)
 *   🚀  I'm currently working on [PT. ZONA MEDIA INDONESIA](http://classprogram.id/)
 *   🧠  I'm learning Machine Learning
-*   🤝  I'm open to collaborating on Interesting project### Skills<p align="left">
+*   🤝  I'm open to collaborating on Interesting project
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -38,17 +41,26 @@ I've been learning to code for 5 years,after switching carrers. I started with J
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
-                    
-                  ### Socials
+                   
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
-                      <a href="https://www.github.com/fajarsidik14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/fajarsidik14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@fajar141196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/15001404/fajar-sidik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/fajarsidik14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarsidik14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/fajarsidik14/attendanceWeb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarsidik14&repo=attendanceWeb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fajarsidik14/rockpaperscissorsML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarsidik14&repo=rockpaperscissorsML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<a
-                  href="https://www.buymeacoffee.com/fajar14119k"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.github.com/fajarsidik14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+            <a href="https://www.linkedin.com/in/fajarsidik14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+            <a href="http://www.medium.com/@fajar141196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+            <a href="https://www.stackoverflow.com/users/15001404/fajar-sidik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges
+<a href="https://github.com/fajarsidik14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarsidik14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+<div width="100%" align="center">
+  <a href="https://github.com/fajarsidik14/attendanceWeb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarsidik14&repo=attendanceWeb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/fajarsidik14/rockpaperscissorsML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarsidik14&repo=rockpaperscissorsML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+<a href="https://www.buymeacoffee.com/fajar14119k"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
